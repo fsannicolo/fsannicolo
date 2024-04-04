@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 👋 I'm @fsannicolo
+- 🎓 Master degree in Computer Science & Engineering - Politecnico di Milano
+- 🌱 I’m currently teaching at ITT Marconi - Rovereto
+- 💬 I speak Italian, English and a bit of Japanese (日本語)
+- ⚡ I'm a Trophy hunter and Rubik solver 🧊
+- 🛠️ "Trust me, I'm an engineer"
+
 <!--
 **fsannicolo/fsannicolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
